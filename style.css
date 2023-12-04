@@ -1,0 +1,10 @@
+.img-ban{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.img-posi{
+    position: absolute;
+    bottom: 8px;
+    left: 100px;
+}
